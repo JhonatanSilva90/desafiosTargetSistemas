@@ -1,0 +1,70 @@
+[
+    {
+        "dia": "2024-09-01",
+        "faturamento": 0
+    },
+    {
+        "dia": "2024-09-02",
+        "faturamento": 1200
+    },
+    {
+        "dia": "2024-09-03",
+        "faturamento": 1500
+    },
+    {
+        "dia": "2024-09-04",
+        "faturamento": 500
+    },
+    {
+        "dia": "2024-09-05",
+        "faturamento": 800
+    },
+    {
+        "dia": "2024-09-06",
+        "faturamento": 1300
+    },
+    {
+        "dia": "2024-09-07",
+        "faturamento": 2200
+    },
+    {
+        "dia": "2024-09-08",
+        "faturamento": 0
+    },
+    {
+        "dia": "2024-09-09",
+        "faturamento": 1300
+    },
+    {
+        "dia": "2024-09-10",
+        "faturamento": 1700
+    },
+    {
+        "dia": "2024-09-11",
+        "faturamento": 2200
+    },
+    {
+        "dia": "2024-09-12",
+        "faturamento": 600
+    },
+    {
+        "dia": "2024-09-13",
+        "faturamento": 1350
+    },
+    {
+        "dia": "2024-09-14",
+        "faturamento": 1800
+    },
+    {
+        "dia": "2024-09-15",
+        "faturamento": 0
+    },
+    {
+        "dia": "2024-09-16",
+        "faturamento": 1400
+    },
+    {
+        "dia": "2024-09-17",
+        "faturamento": 1900
+    }
+]
